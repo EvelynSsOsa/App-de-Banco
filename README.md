@@ -130,7 +130,7 @@ Visualización completa del **historial de transacciones** con fecha y hora.
 
 --- 
 ## Este proyecto fue creado con mucho esfuerzo para simular la gestión de una cuenta bancaria de manera didáctica y visual.
-¡Perfecto para aprender Streamlit, POO y manejo de JSON! 💖
+
 
 ## 🚀 Cómo ejecutar el proyecto
 
